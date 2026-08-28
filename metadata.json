@@ -1,0 +1,6 @@
+{
+  "name": "NexPulse Digital Agency",
+  "description": "একটি আধুনিক ও প্রফেশনাল ডিজিটাল এজেন্সি ল্যান্ডিং পেজ - সার্ভিস তালিকা, পোর্টফোলিও, হোয়াটসঅ্যাপ কন্টাক্ট ফর্ম এবং ম্যাপ লোকেশন সহ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
